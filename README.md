@@ -3,7 +3,9 @@ In this Project, the effect of powertrain, body style, driving character paramet
 * Conventional Vehicles
 * Hybrid Vehicle
 * Dual Fuel Vehicle
-# Craete Driving Cycles
+# Create Driving Cycles
 19 real driving cycles in four distinct routes were created using:
 * K-means
 * PCA 
+# Vehicle Simulation
+The complex vehicle models were created with MATLAB/Simulink based on their technical specifications.
