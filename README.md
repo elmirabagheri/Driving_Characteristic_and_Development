@@ -5,6 +5,8 @@ In this Project, the effect of powertrain, body style, driving character paramet
 * Hybrid Vehicle
 * Dual Fuel Vehicle
 # Create Driving Cycles
+![image](https://github.com/elmirabagheri/Driving_Characteristic_and_Development/assets/115426448/4060b788-e678-4f25-83ab-b238f717bfed)
+
 19 real driving cycles in four distinct routes were created using:
 * K-means
 * PCA 
