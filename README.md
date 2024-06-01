@@ -10,6 +10,8 @@ In this Project, the effect of powertrain, body style, driving character paramet
 * PCA 
 # Vehicle Simulation
 The complex vehicle models were created with MATLAB/Simulink based on their technical specifications.
+![image](https://github.com/elmirabagheri/Driving_Characteristic_and_Development/assets/115426448/7939b816-e564-4e85-8269-9a9220a78097)
+
 
 
    
