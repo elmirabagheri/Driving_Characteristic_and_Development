@@ -13,10 +13,10 @@ The complex vehicle models were created with MATLAB/Simulink based on their tech
 ![image](https://github.com/elmirabagheri/Driving_Characteristic_and_Development/assets/115426448/7939b816-e564-4e85-8269-9a9220a78097)
 
 # Fuel Consumption & Emissions
-* CO
-* CO2
-* HC
-* NOx
+* Calculate CO
+* Calculate CO2
+* Calculate HC
+* Calculate NOx
 # Flowchart
    
 ![image](https://github.com/elmirabagheri/Driving_Characteristic_and_Development/assets/115426448/f703dcf7-9676-42a2-9042-6c5c6192d82a)
