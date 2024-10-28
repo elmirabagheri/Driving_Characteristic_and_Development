@@ -15,7 +15,7 @@ In this Project, the effect of powertrain, body style, driving character paramet
 The complex vehicle models were created with MATLAB/Simulink based on their technical specifications.
 ![image](https://github.com/elmirabagheri/Driving_Characteristic_and_Development/assets/115426448/7939b816-e564-4e85-8269-9a9220a78097)
 
-Details of vehicle dynamics are available at [here](https://drive.google.com/file/d/13x7QAx2CmpOV5QooXWPQN0I6kopbiyyq/view?usp=sharing)
+Details of vehicle dynamics are available at [here](https://drive.google.com/drive/folders/1yEVFLZdnjniSev1gIpMcsH_Qx_IshAvH?usp=sharing)
 # Fuel Consumption & Emissions
 * Calculate CO
 * Calculate CO2
